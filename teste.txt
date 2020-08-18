@@ -1,0 +1,8 @@
+
+
+
+
+O app será testado apartir do download.
+Verificar a area de cadastramento e se os dados ficam armazenados corretamente.
+fazer o pedidos de viagens e conferir se o calculo esta correto e se as viagens não irá ultrapassar o valor de 10 dolares.
+fazer inúmeras viagens para certificar que a IA esta funcionando corretamente e levando o cliente para o destino correto.
